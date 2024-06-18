@@ -1,0 +1,11 @@
+tensorflow==2.16.1
+keras==3.3.3
+langchain-community==0.0.20
+langchain==0.0.352
+pypdf
+sentence-transformers==2.2.2
+huggingface_hub
+accelerate
+torch~=2.1.2
+transformers~=4.36.2
+PyPDF2==3.0.1
