@@ -22,4 +22,4 @@
 Watch the video demonstration of the project:
 
 [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/ddFb79D8c7g)
-![Image](https://github.com/Wriath18/PokeDex_Streamlit_LLM/blob/main/Screenshot%202024-06-17%20135642.png)
+![Image](https://github.com/Wriath18/PokeDex_Streamlit_LLM/blob/main/Images/Screenshot%202024-06-17%20135642.png)
