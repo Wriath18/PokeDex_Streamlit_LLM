@@ -15,13 +15,4 @@
 
 - **LLM Model** : The LLM model used is Llama-3 8b model and is being inferenced using Groq API for faster working.
 
-- **DB** - For the RAG vector db has been used to create document embeddings.
-
-## Video Demonstration
-
-Watch the video demonstration of the project:
-
-[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://youtu.be/ddFb79D8c7g)
-
-#Interface
-![Image](https://github.com/Wriath18/PokeDex_Streamlit_LLM/blob/main/Images/Screenshot%202024-06-17%20135642.png)
+- **DB** - For the RAG vector db has been used to create document 
